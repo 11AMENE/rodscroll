@@ -1,0 +1,10 @@
+[
+{
+  "modid": "rodscroll",
+  "name": "RodScroll",
+  "description": "Rod slot-switching helper with an in-game menu to pick your slots and delay.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["AMENE"]
+}
+]
