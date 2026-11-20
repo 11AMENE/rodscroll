@@ -7,3 +7,6 @@ eclipse/
 out/
 bin/
 *.class
+*.zip
+*.zip.1
+env.sh
